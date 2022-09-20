@@ -1,2 +1,0 @@
-text = 'nutella'
-print((text[1:7]) + "yay")
